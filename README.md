@@ -3,7 +3,7 @@
 This is a project that scrapes (download) a big amount of images through a normal google search.<br>
 <br>
 Notes:<br>
-- This tool might get better result from the second time. So, I kindly ask you to run it more then once (2-3 times) until you get the best result.
+- This tool might get better result from the second time. So, I kindly ask you to run it more thشn once (2-3 times) until you get the best result.
 - Take care of your topic spelling because it may reduce the amount of downloaded photos.
 - When running on the same topic again make sure to delete the folder that contain the previous images to let the script create the folder ans save images in it.
 - It's mandatory to download a chrome webdriver for this code to work (chromedriver only works for this code).<br>
