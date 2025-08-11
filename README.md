@@ -9,10 +9,10 @@ Notes:<br>
 - It's mandatory to download a chrome webdriver for this code to work (chromedriver only works for this code).<br>
 
 Setup:
-- Download the files of your webdriver.<br>
-  it should look something like this :
+- Download the files of your webdriver.<br><br>
+  It should look something like this :
   
 <img width="1542" height="818" alt="image" src="https://github.com/user-attachments/assets/c0273a2e-4128-4efe-819a-e28a2467ed2a" />
 
-- Put the script in the same file then run script
+- Put the script in the same file then run script.<br>
   note: You can choose where to download images but the default is in the same directory as the file that contains the py script
